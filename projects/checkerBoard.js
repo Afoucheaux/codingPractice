@@ -21,7 +21,8 @@ function checkerBoard(number) {
         }
       }
     }
-    console.log(rowArray.join());
+    console.log(rowArray.join(""));
   }
 }
 checkerBoard(12);
+// note test
